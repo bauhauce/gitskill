@@ -1,2 +1,2 @@
 This is a test.
-master simple
+master and feature simple1.
